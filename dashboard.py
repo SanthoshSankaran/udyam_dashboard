@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 # Input file (Updated to the Mizoram sample file)
-file_name = "/Users/thesanthoshsankaran/APU MAD/D3 Storytelling Initiative/UDYAM Dashboard/udyam statewise data/udyam_maharashtra_data_20251024-182305.csv"
+file_name = "./udyam_maharashtra_data.csv"
 
 # --- NIC 2-Digit Section Mapping for Descriptive Labels ---
 # This dictionary maps the 2-digit NIC codes to their high-level industry description
