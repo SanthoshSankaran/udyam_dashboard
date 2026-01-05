@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 # Input file (Updated to the Mizoram sample file)
-file_name = "./udyam_maharashtra_data.csv"
+file_name = "./udyam_enterprise_data.csv"
 
 # --- NIC 2-Digit Section Mapping for Descriptive Labels ---
 # This dictionary maps the 2-digit NIC codes to their high-level industry description
